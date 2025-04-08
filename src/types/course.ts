@@ -5,4 +5,5 @@ export type Course = {
     description: string;
     cost: string;
     thumbnail: string;
+    created_at: string
   };
